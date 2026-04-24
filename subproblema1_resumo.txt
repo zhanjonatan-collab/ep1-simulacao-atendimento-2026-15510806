@@ -1,9 +1,0 @@
-SUBPROBLEMA 1
-N final = 15000
-X̄ = 115.570200
-Ȳ = 31.866467
-W̄ = 0.209308
-TM̄ = 11.569855
-Pr_d(tm > 13) = 0.243400
-w_s (quantil 0.95 de w) = 0.312886
-Amplitude final do IC95% de W = 0.001965
