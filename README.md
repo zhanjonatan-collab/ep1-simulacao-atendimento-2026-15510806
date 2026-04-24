@@ -1,5 +1,7 @@
 # EP1 - Sistema de Atendimento com Clientes Impacientes
 
+Jonatan Zhan NUSP 15510806
+
 Trabalho da disciplina **ACH2158 - Simulação de Sistemas Complexos**.
 
 Este repositório contém a solução do EP1 sobre o problema de **balcão de atendimento com fila e clientes impacientes**. O modelo usado segue o algoritmo descrito nos slides do Problema 2: chegadas por processo de Poisson com taxa λ, tempos de atendimento exponenciais com parâmetro μ, fila única e desistência com probabilidade p_r = r/(r+n) quando o cliente encontra fila de tamanho r
