@@ -1,0 +1,24 @@
+SUBPROBLEMA 1
+N final = 15000
+X̄ = 115.570200
+Ȳ = 31.866467
+R̄ = 2.554133
+W̄ = 0.209308
+TM̄ = 11.569855
+Pr_d(tm > 13) = 0.243400
+w_s (quantil 0.95 de w) = 0.312886
+Amplitude final do IC95% de W = 0.001965
+
+Resumo adicional de W:
+  mediana = 0.207547
+  q05 = 0.111111
+  q25 = 0.166667
+  q75 = 0.251543
+  q95 = 0.312886
+
+Resumo adicional de TM:
+  mediana = 11.194186
+  q05 = 8.085143
+  q25 = 9.746241
+  q75 = 12.933567
+  q95 = 16.391683
