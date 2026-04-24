@@ -21,9 +21,6 @@ No **subproblema 2**, o cenário pedido é λ = 4, μ = 0.5, T = 60, e deve-se d
 - ep1_solucao_final.py` 
   Código-fonte da simulação.
 
-- ep1_solucao_final.zip` 
-  Pacote com código, gráficos e arquivos de saída.
-
 - outputs/subproblema1/  
   Gráficos e resumo do subproblema 1.
 
